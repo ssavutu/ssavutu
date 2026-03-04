@@ -43,7 +43,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 
 <p align="center">🐍 Contribution Activity</p>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssavutu/ssavutu/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/ssavutu/ssavutu/output/github-snake.svg">
 </picture>
