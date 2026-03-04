@@ -6,9 +6,9 @@ Python • Go • C++ • C# • Dart • React
 
 ### 💼 Experience
 **Software Engineer Co-Op — eMoney Advisor** Sep 2025 - Mar 2026
-<br>
-Worked on backend REST APIs connecting the platform to 50+ financial institutions.  
-Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe deployment of production-critical code.
+
+> Worked on backend REST APIs connecting the platform to 50+ financial institutions.  
+> Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe deployment of production-critical code.
 
 ### 🚀 What I'm building
 
