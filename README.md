@@ -1,14 +1,16 @@
 My name is **Sachin Avutu**, I'm a second-year Computer Science student at **Drexel University** with a passion for backend systems, infrastructure, and open-source software. My current work focuses on building efficient and maintainable systems, including infrastructure and tooling for Drexel's Independent Student Newspaper *The Triangle*.
 
-Python • Go • C++ • C# • Dart • React
+Python • Go • C++ • C#
+<br>
+Dart • React
 
 ---
 
 ### 💼 Experience
-**Software Engineer Co-Op — eMoney Advisor** Sep 2025 - Mar 2026
+**Software Engineer Co-op — eMoney Advisor** Sep 2025 — Mar 2026
 
-> Worked on backend REST APIs connecting the platform to 50+ financial institutions.  
-> Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe deployment of production-critical code.
+Worked on backend REST APIs connecting the platform to 50+ financial institutions.  
+Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe deployment of production-critical code.
 
 ### 🚀 What I'm building
 
@@ -16,7 +18,7 @@ Python • Go • C++ • C# • Dart • React
   Go-based CMS (Content Management System) with a React frontend designed to replace WordPress for *The Triangle*
 
 - **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
-  WordPress to MariaDB ETL (Extract-Transform-Load) pipeline made in Python
+  WordPress → MariaDB ETL (Extract-Transform-Load) pipeline made in Python
 
 - **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
   An efficient Python library for MinHash-based similarity checking on strings
@@ -30,7 +32,7 @@ Python • Go • C++ • C# • Dart • React
   Flutter-based web app that provides real-time dining hall nutrition data for Drexel students
 
 - **[Pill Reminder](https://github.com/ssavutu/pill-reminder)**  
-  mobile app that scans prescription bottles and reminds users to take their medication, made for DragonHacks '25
+  Mobile app that scans prescription bottles and reminds users to take their medication, made for DragonHacks '25
 
 ### 📫 Get in touch
 + [LinkedIn](https://linkedin.com/in/ssavutu)
