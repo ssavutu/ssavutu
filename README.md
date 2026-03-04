@@ -24,7 +24,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 - **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
   An efficient Python library for MinHash-based similarity checking on strings
 
-- **[Little Brother](https://github.com/ssavutu/little-brother)**  
+- **[LittleBrother](https://github.com/ssavutu/little-brother)**  
   A minimal C++ vector-database implementation using the HNSW approach
 
 ### 📦 Past Projects
@@ -32,7 +32,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 - **[DragonFuel](https://github.com/ssavutu/drexel-diet-app)**  
   Flutter-based dieting app that provides real-time dining hall nutrition data for Drexel students
 
-- **[Pill Reminder](https://github.com/ssavutu/pill-reminder)**  
+- **[RxBuddy](https://github.com/ssavutu/pill-reminder)**  
   Mobile app that scans prescription bottles with OCR and reminds users to take their medication., made for DragonHacks '25
 
 ### 📫 Get in touch
