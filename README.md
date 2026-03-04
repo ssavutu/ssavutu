@@ -18,7 +18,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
   Go-based CMS and REST API with a React frontend replacing WordPress for *The Triangle*
 
 + **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
-  Python ETL pipeline migrating WordPress content into a structured MariaDB schema with entity resolution for authors and metadata deduplication
+  Python ETL pipeline migrating WordPress content into a structured MariaDB schema with entity resolution for author and metadata deduplication
 
 + **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
   An efficient Python library for MinHash-based similarity checking on strings
