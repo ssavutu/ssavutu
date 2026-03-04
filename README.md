@@ -46,6 +46,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssavutu/ssavutu/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/ssavutu/ssavutu/output/github-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssavutu/ssavutu/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ssavutu/ssavutu/output/github-snake.svg">
   </picture>
 </p>
