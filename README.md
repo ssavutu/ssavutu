@@ -5,7 +5,7 @@ Python • Go • C++ • C#
 ---
 
 ### 💼 Experience
-** Software Engineer Co-Op — eMoney Advisor**
+**Software Engineer Co-Op — eMoney Advisor**
 Sep 2025 - Mar 2026
 - Contributed to REST APIs deployed in production to interface with 50+ financial institutions
 - Worked in a C# codebase of 1,300,000+ lines of code
