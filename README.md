@@ -27,7 +27,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 - **[LittleBrother](https://github.com/ssavutu/little-brother)**  
   A minimal C++ vector-database implementation using the HNSW approach
 
-### 📱 Apps & Experiments
+### 📌 Selected Projects
 
 - **[DragonFuel](https://github.com/ssavutu/drexel-diet-app)**  
   Flutter-based dieting app that provides real-time dining hall nutrition data for Drexel students
