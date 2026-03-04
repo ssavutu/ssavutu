@@ -12,7 +12,7 @@ Python • Go • C++ • C#
 
 ### 📦 Past Projects
 + [Dieting App](https://github.com/ssavutu/drexel-diet-app): Flutter-based web app that provides real-time dining hall nutrition data for Drexel students
-+ [Pill Reminder](https://github.com/ssavutu/pill-reminder): mobile app that scans prescription bottles and reminds users to take their medication, made for Dragonhacks '25
++ [Pill Reminder](https://github.com/ssavutu/pill-reminder): app that scans prescription bottles and reminds users to take their medication, made for Dragonhacks '25
 
 ### 📫 Get in touch
 + [LinkedIn](https://linkedin.com/in/ssavutu)
