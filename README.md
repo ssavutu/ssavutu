@@ -16,7 +16,8 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 
 ### 🚀 What I'm building
 
-- **[Delta](https://github.com/DrexelTriangle/triangle-cms)**  
+- **[Delta](https://github.com/DrexelTriangle/triangle-cms)**
+  ![Last Commit](https://img.shields.io/github/last-commit/ssavutu/minhashlib)
   Go-based CMS with a React frontend designed to replace WordPress for *The Triangle*
 
 - **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
