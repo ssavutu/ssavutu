@@ -1,7 +1,6 @@
 My name is **Sachin Avutu**, I'm a second-year Computer Science student at **Drexel University** with a passion for backend systems, infrastructure, and open-source software. My current work focuses on building efficient and maintainable systems, including infrastructure and tooling for Drexel's Independent Student Newspaper *The Triangle*.
 
-### ⚙️ Tech Stack
-  Python • Go • C++ • C#
+Python • Go • C++ • C#
 
 ### 🚀 What I'm building
 + [Delta](https://github.com/DrexelTriangle/triangle-cms): Go-based CMS (Content Management System) designed to replace WordPress for *The Triangle*
