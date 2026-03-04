@@ -1,14 +1,14 @@
-My name is **Sachin Avutu**, I'm a second year Computer Science student at **Drexel University** with a passion for backend systems, infrastructure, and open-source software. My current work focuses on creating efficient and maintainable systems, including infrastructure and tooling for Drexel's Independent Student Newspaper *The Triangle*.
+My name is **Sachin Avutu**, I'm a second year Computer Science student at **Drexel University** with a passion for backend systems, infrastructure, and open-source software. My current work focuses on building efficient and maintainable systems, including infrastructure and tooling for Drexel's Independent Student Newspaper *The Triangle*.
 
 ### 🚀 What I'm building
-+ [Delta](https://github.com/DrexelTriangle/triangle-cms): Go based CMS(Content Management System) for *The Triangle*
-+ [Wordpress-ETL](https://github.com/DrexelTriangle/wordpress-etl): a Wordpress to MariaDB ETL(Extract Transform Load) pipeline made in Python, also for *The Triangle*
-+ [Minhashlib](https://github.com/ssavutu/minhashlib): an efficient Python library for Minhash based similarity checking on strings
-+ [Little-Brother](https://github.com/ssavutu/little-brother): a C++ toy vector-database using the HNSW approach
++ [Delta](https://github.com/DrexelTriangle/triangle-cms): Go-based CMS (Content Management System) designed to replace WordPress for *The Triangle*
++ [WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl): a WordPress to MariaDB ETL (Extract-Transform-Load) pipeline made in Python
++ [Minhashlib](https://github.com/ssavutu/minhashlib): an efficient Python library for MinHash based similarity checking on strings
++ [Little Brother](https://github.com/ssavutu/little-brother): a minimal C++ vector-database implementation using the HNSW approach
 
 ### 📦 Past Projects
-+ [Dieting App](https://github.com/ssavutu/drexel-diet-app): Flutter based dieting website for Drexel students that provides realtime data and suggestions from student dining halls
-+ [Pill Reminder](https://github.com/ssavutu/pill-reminder): mobile app that scans prescription bottles using OCR and reminds the elderly and forgetful to take their pills, made for Drexel Dragonhacks '25
++ [Dieting App](https://github.com/ssavutu/drexel-diet-app): Flutter-based web app that provides real-time dining hall nutrition data for Drexel students
++ [Pill Reminder](https://github.com/ssavutu/pill-reminder): mobile app that scans prescription bottles using OCR and reminds users when to take their medication, made for Drexel Dragonhacks '25
 
 ### 📫 Contact Me
 + [LinkedIn](https://linkedin.com/in/ssavutu)
