@@ -14,7 +14,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 ### 🚀 What I'm building
 
 + **[Delta](https://github.com/DrexelTriangle/triangle-cms)**  
-  Go-based CMS and REST API with a React frontend replacing WordPress for *The Triangle*
+  Go-based CMS and REST API replacing WordPress for *The Triangle*
 
 + **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
   Python ETL pipeline migrating WordPress content into a structured MariaDB schema with entity resolution for author identity deduplication
