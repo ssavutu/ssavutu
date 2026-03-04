@@ -21,10 +21,10 @@ Sep 2025 - Mar 2026
   WordPress to MariaDB ETL (Extract-Transform-Load) pipeline made in Python
 
 - **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
-  efficient Python library for MinHash-based similarity checking on strings
+  An efficient Python library for MinHash-based similarity checking on strings
 
 - **[Little Brother](https://github.com/ssavutu/little-brother)**  
-  minimal C++ vector-database implementation using the HNSW approach
+  A minimal C++ vector-database implementation using the HNSW approach
 
 ### 📦 Past Projects
 
