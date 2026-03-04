@@ -1,4 +1,4 @@
-My name is **Sachin Avutu**, I'm a second-year Computer Science student at **Drexel University** with a passion for backend systems, infrastructure, and open-source software. My current work focuses on building efficient and maintainable systems, including infrastructure and tooling for Drexel's Independent Student Newspaper *The Triangle*.
+My name is **Sachin Avutu**, I'm a second-year Computer Science student at **Drexel University** interested in backend systems, infrastructure, and open-source software. I currently build backend services and data processing systems, including infrastructure for Drexel's Independent Student Newspaper *The Triangle*.
 
 Python • Go • C++ • C#
 <br>
