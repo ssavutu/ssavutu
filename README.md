@@ -14,9 +14,9 @@ Sep 2025 - Mar 2026
 
 ### 🚀 What I'm building
 + [Delta](https://github.com/DrexelTriangle/triangle-cms): Go-based CMS (Content Management System) designed to replace WordPress for *The Triangle*
-+ [WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl): a WordPress to MariaDB ETL (Extract-Transform-Load) pipeline made in Python
-+ [Minhashlib](https://github.com/ssavutu/minhashlib): an efficient Python library for MinHash based similarity checking on strings
-+ [Little Brother](https://github.com/ssavutu/little-brother): a minimal C++ vector-database implementation using the HNSW approach
++ [WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl): WordPress to MariaDB ETL (Extract-Transform-Load) pipeline made in Python
++ [Minhashlib](https://github.com/ssavutu/minhashlib): Python library for efficient MinHash-based similarity checking on strings
++ [Little Brother](https://github.com/ssavutu/little-brother): minimal C++ vector-database implementation using the HNSW approach
 
 ### 📦 Past Projects
 + [Dieting App](https://github.com/ssavutu/drexel-diet-app): Flutter-based web app that provides real-time dining hall nutrition data for Drexel students
