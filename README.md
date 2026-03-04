@@ -36,10 +36,9 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
   Mobile app that scans prescription bottles with OCR and reminds users to take their medication., made for DragonHacks '25
 
 ### 📫 Get in touch
-<p align="center">
-<a href="https://linkedin.com/in/ssavutu">LinkedIn</a> •
-<a href="mailto:ssavutu@gmail.com">Email</a>
-</p>
+[LinkedIn](https://linkedin.com/in/ssavutu)
+[Email](mailto:ssavutu@gmail.com)
+
 
 
 <picture>
