@@ -12,7 +12,7 @@ My name is **Sachin Avutu**, I'm a second-year Computer Science student at **Dre
 
 ### 📫 Contact Me
 + [LinkedIn](https://linkedin.com/in/ssavutu)
-+ 📧 [ssavutu@gmail.com](mailto:ssavutu@gmail.com)
++ 📧: [ssavutu@gmail.com](mailto:ssavutu@gmail.com)
 
 
 <picture>
