@@ -1,6 +1,6 @@
 My name is **Sachin Avutu**, I'm a second-year Computer Science student at **Drexel University** with a passion for backend systems, infrastructure, and open-source software. My current work focuses on building efficient and maintainable systems, including infrastructure and tooling for Drexel's Independent Student Newspaper *The Triangle*.
 
-Python • Go • C++ • C#
+Python • Go • C++ • C# • Dart • React
 
 ---
 
@@ -8,14 +8,13 @@ Python • Go • C++ • C#
 **Software Engineer Co-Op — eMoney Advisor**
 <br>
 Sep 2025 - Mar 2026
-- Contributed to REST APIs deployed in production to interface with 50+ financial institutions
-- Worked in a C# codebase of 1,300,000+ lines of code
-- Wrote unit tests and carefully tested API responses to ensure safe deployments of production-critical code
+Worked on backend REST APIs connecting the platform to 50+ financial institutions.  
+Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe deployment of production-critical code.
 
 ### 🚀 What I'm building
 
 - **[Delta](https://github.com/DrexelTriangle/triangle-cms)**  
-  Go-based CMS (Content Management System) designed to replace WordPress for *The Triangle*
+  Go-based CMS (Content Management System) with a React frontend designed to replace WordPress for *The Triangle*
 
 - **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
   WordPress to MariaDB ETL (Extract-Transform-Load) pipeline made in Python
