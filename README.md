@@ -15,7 +15,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 ### 🚀 What I'm building
 
 + **[Delta](https://github.com/DrexelTriangle/triangle-cms)**  
-  Go-based CMS and REST API with a React frontend replacing WordPress for Drexel’s independent student newspaper *The Triangle*
+  Go-based CMS and REST API with a React frontend replacing WordPress for *The Triangle*
 
 + **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
   WordPress → MariaDB ETL pipeline written in Python for migrating legacy newspaper infrastructure
