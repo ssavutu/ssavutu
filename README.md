@@ -1,7 +1,6 @@
 My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Drexel University** building backend systems, infrastructure, and open-source software. I currently develop internal services and data processing systems, including infrastructure for Drexel's Independent Student Newspaper *The Triangle*.
 
-**Languages:** Python • Go • C# • C++  
-**Frontend:** Flutter • React
+**Languages:** Python • Go • C# • C++ • Dart
 
 ---
 
@@ -9,7 +8,7 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
 **Software Engineer Co-op — eMoney Advisor**  
 Sep 2025 — Mar 2026  
 
-Worked on backend REST APIs integrating eMoney software to 50+ financial institutions.  
+Worked on backend REST APIs integrating the eMoney platform with 50+ financial institutions.  
 Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe deployment of production-critical code.
 
 ### 🚀 What I'm building
@@ -18,7 +17,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
   Go-based CMS and REST API with a React frontend replacing WordPress for *The Triangle*
 
 + **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
-  Python ETL pipeline migrating WordPress content into a structured MariaDB schema with entity resolution for author and metadata deduplication
+  Python ETL pipeline migrating WordPress content into a structured MariaDB schema with entity resolution for author deduplication
 
 + **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
   An efficient Python library for MinHash-based similarity checking on strings
