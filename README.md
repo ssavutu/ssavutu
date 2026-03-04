@@ -41,7 +41,7 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 
 ---
 
-<p align="center">🐍 <strong>Contribution Activity</strong></p>
+<p align="center">🐍 <b>Contribution Activity</b></p>
 
 <p align="center">
   <picture>
