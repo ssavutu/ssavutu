@@ -1,4 +1,4 @@
-My name is **Sachin Avutu**, I'm a second-year Computer Science student at **Drexel University** interested in backend systems, infrastructure, and open-source software. I currently build backend services and data processing systems, including infrastructure for Drexel's Independent Student Newspaper *The Triangle*.
+My name is **Sachin Avutu**, I'm a second-year Computer Science student at **Drexel University** passionate about backend systems, infrastructure, and open-source software. I currently build backend services and data processing systems, including infrastructure for Drexel's Independent Student Newspaper *The Triangle*.
 
 Python • Go • C# • C++
 <br>
@@ -19,21 +19,21 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
   Go-based CMS with a React frontend designed to replace WordPress for *The Triangle*
 
 - **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
-  WordPress → MariaDB ETL (Extract-Transform-Load) pipeline made in Python
+  WordPress → MariaDB ETL pipeline written in Python for migrating legacy newspaper infrastructure
 
 - **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
   An efficient Python library for MinHash-based similarity checking on strings
 
 - **[LittleBrother](https://github.com/ssavutu/little-brother)**  
-  A minimal C++ vector-database implementation using the HNSW approach
+  Minimal C++ vector database implementing approximate nearest-neighbor search using HNSW
 
 ### 📌 Selected Projects
 
 - **[DragonFuel](https://github.com/ssavutu/drexel-diet-app)**  
-  Flutter-based dieting app that provides real-time dining hall nutrition data for Drexel students
+  Flutter mobile app providing real-time nutrition data from Drexel dining halls
 
 - **[RxBuddy](https://github.com/ssavutu/pill-reminder)**  
-  Mobile app that scans prescription bottles with OCR and reminds users to take their medication., made for DragonHacks '25
+  Mobile app that scans prescription bottles with OCR and reminds users to take medication. Built for DragonHacks '25
 
 ### 📫 Get in touch
 [LinkedIn](https://linkedin.com/in/ssavutu)  
