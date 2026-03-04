@@ -29,8 +29,8 @@ Contributed to a large C# codebase (~1.3M LOC) and wrote tests to ensure safe de
 
 ### 📦 Past Projects
 
-- **[Dieting App](https://github.com/ssavutu/drexel-diet-app)**  
-  Flutter-based web app that provides real-time dining hall nutrition data for Drexel students
+- **[DragonFuel](https://github.com/ssavutu/drexel-diet-app)**  
+  Flutter-based dieting app that provides real-time dining hall nutrition data for Drexel students
 
 - **[Pill Reminder](https://github.com/ssavutu/pill-reminder)**  
   Mobile app that scans prescription bottles and reminds users to take their medication, made for DragonHacks '25
