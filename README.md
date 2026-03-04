@@ -4,6 +4,13 @@ Python • Go • C++ • C#
 
 ---
 
+### 💼 Experience
+** Software Engineer Co-Op — eMoney Advisor**
+Sep 2025 - Mar 2026
+- Contributed to REST APIs deployed in production to interface with 50+ financial institutions
+- Worked in a C# codebase of 1,300,000+ lines of code
+- Wrote unit tests and carefuly tested API responses to ensure safe deployements of production critical code
+
 ### 🚀 What I'm building
 + [Delta](https://github.com/DrexelTriangle/triangle-cms): Go-based CMS (Content Management System) designed to replace WordPress for *The Triangle*
 + [WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl): a WordPress to MariaDB ETL (Extract-Transform-Load) pipeline made in Python
