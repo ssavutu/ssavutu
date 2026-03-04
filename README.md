@@ -10,7 +10,7 @@ Python • Go • C++ • C#
 Sep 2025 - Mar 2026
 - Contributed to REST APIs deployed in production to interface with 50+ financial institutions
 - Worked in a C# codebase of 1,300,000+ lines of code
-- Wrote unit tests and carefuly tested API responses to ensure safe deployements of production critical code
+- Wrote unit tests and carefully tested API responses to ensure safe deployments of production critical code
 
 ### 🚀 What I'm building
 
@@ -18,13 +18,13 @@ Sep 2025 - Mar 2026
   Go-based CMS (Content Management System) designed to replace WordPress for *The Triangle*
 
 - **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
-  a WordPress to MariaDB ETL (Extract-Transform-Load) pipeline made in Python
+  WordPress to MariaDB ETL (Extract-Transform-Load) pipeline made in Python
 
 - **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
-  an efficient Python library for MinHash based similarity checking on strings
+  efficient Python library for MinHash-based similarity checking on strings
 
 - **[Little Brother](https://github.com/ssavutu/little-brother)**  
-  a minimal C++ vector-database implementation using the HNSW approach
+  minimal C++ vector-database implementation using the HNSW approach
 
 ### 📦 Past Projects
 
@@ -32,7 +32,7 @@ Sep 2025 - Mar 2026
   Flutter-based web app that provides real-time dining hall nutrition data for Drexel students
 
 - **[Pill Reminder](https://github.com/ssavutu/pill-reminder)**  
-  app that scans prescription bottles and reminds users to take their medication, made for Dragonhacks '25
+  mobile app that scans prescription bottles and reminds users to take their medication, made for Dragonhacks '25
 
 ### 📫 Get in touch
 + [LinkedIn](https://linkedin.com/in/ssavutu)
