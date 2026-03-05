@@ -7,7 +7,7 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
 ### 🚀 What I'm building
 
 + **[Delta](https://github.com/DrexelTriangle/triangle-cms)**  
-  Go-based CMS and REST API replacing WordPress for *The Triangle*
+  Go-based CMS and REST API replacing WordPress for *The Triangle*, designed for extensibility and high-volume article publishing
 
 + **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
   Python ETL pipeline migrating WordPress content into a structured MariaDB schema with entity resolution for author identity deduplication
