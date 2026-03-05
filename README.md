@@ -18,7 +18,7 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
 + **[LittleBrother](https://github.com/ssavutu/little-brother)**  
   Minimal C++ vector database implementing approximate nearest-neighbor search using HNSW
 
-### 📌 Selected Projects
+### 📌 Other Projects
 
 + **[DragonFuel](https://github.com/ssavutu/drexel-diet-app)**  
   Flutter mobile app providing real-time nutrition data from Drexel dining halls
