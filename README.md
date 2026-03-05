@@ -18,6 +18,8 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
 + **[LittleBrother](https://github.com/ssavutu/little-brother)**  
   Minimal C++ vector database implementing approximate nearest-neighbor search using HNSW
 
+---
+
 ### 📌 Other Projects
 
 + **[DragonFuel](https://github.com/ssavutu/drexel-diet-app)**  
@@ -25,6 +27,8 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
 
 + **[RxBuddy](https://github.com/ssavutu/pill-reminder)**  
   Mobile app that scans prescription bottles with OCR and reminds users to take medication. Built for DragonHacks '25
+
+---
 
 ### 📫 Get in touch
 + LinkedIn: [linkedin.com/in/ssavutu](https://linkedin.com/in/ssavutu)  
