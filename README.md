@@ -1,6 +1,6 @@
 My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Drexel University** building backend systems and infrastructure, with a focus on open-source software. I currently develop internal services and data processing systems, including publishing infrastructure for Drexel's Independent Student Newspaper *The Triangle*.
 
-**Languages:** Python • Go • C# • C++ • Dart
+**Languages:** Python · Go · C# · C++ · Dart
 
 ---  
 
@@ -13,7 +13,7 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
   Python ETL pipeline migrating WordPress content into a structured MariaDB schema with entity resolution for author identity deduplication
 
 + **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
-  An efficient Python library for MinHash-based similarity checking on strings
+  An efficient Python library for MinHash-based similarity detection on large string datasets
 
 + **[LittleBrother](https://github.com/ssavutu/little-brother)**  
   Minimal C++ vector database implementing approximate nearest-neighbor search using HNSW
