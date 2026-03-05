@@ -13,7 +13,7 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
   Python ETL pipeline migrating WordPress content into a structured MariaDB schema with entity resolution for author identity deduplication
 
 + **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
-  An efficient Python library for MinHash-based similarity detection on large string datasets
+  Efficient Python library for MinHash-based similarity detection on large string datasets
 
 + **[LittleBrother](https://github.com/ssavutu/little-brother)**  
   Minimal C++ vector database implementing approximate nearest-neighbor search using HNSW
