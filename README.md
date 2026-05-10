@@ -15,7 +15,7 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
 + **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
   Efficient Python library for MinHash-based similarity detection on large string datasets
 
-+ **[LittleBrother](https://github.com/ssavutu/little-brother)**  
++ **[LittleBrother](https://github.com/ssavutu/LittleBrother)**  
   Minimal C++ vector database implementing approximate nearest-neighbor search using HNSW
 
 ---
