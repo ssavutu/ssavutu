@@ -25,6 +25,9 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
 + **[DragonFuel](https://github.com/ssavutu/drexel-diet-app)**  
   Flutter mobile app providing real-time nutrition data from Drexel dining halls
 
++ **[EagleEyePhilly](https://github.com/ssavutu/EagleEyePhilly)**  
+  Photo-first app that turns street issues into submitted Philadelphia 311 service requests using a FastAPI + Selenium backend. Built for Philly Codefest 2026
+
 + **[RxBuddy](https://github.com/ssavutu/pill-reminder)**  
   Mobile app that scans prescription bottles with OCR and reminds users to take medication. Built for DragonHacks '25
 
