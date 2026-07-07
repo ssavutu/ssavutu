@@ -12,6 +12,9 @@ My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Dre
 + **[WordPress ETL](https://github.com/DrexelTriangle/wordpress-etl)**  
   Python ETL pipeline migrating WordPress content into a structured MariaDB schema with entity resolution for author identity deduplication
 
++ **[TriApply](https://github.com/ssavutu/TriApply)**
+  Clojure and ClojureScript based application form and ATS, made to improve *The Triangle* Google Forms + Slack application and review process
+
 + **[Minhashlib](https://github.com/ssavutu/minhashlib)**  
   Efficient Python library for MinHash-based similarity detection on large string datasets
 
