@@ -1,4 +1,4 @@
-My name is **Sachin Avutu**. I'm a second-year Computer Science student at **Drexel University** and a former Software Engineer Co-op at **eMoney Advisor**, building backend systems, infrastructure, and open-source developer tools. I also build internal services and data processing systems, including publishing infrastructure for Drexel's Independent Student Newspaper *The Triangle*.
+My name is **Sachin Avutu**. I'm a third-year Computer Science student at **Drexel University** and a Software Developer Co-op at **Susquehanna International Group**, building backend systems, infrastructure, and open-source developer tools. I also build internal services and data processing systems, including publishing infrastructure for Drexel's Independent Student Newspaper *The Triangle*.
 
 **Languages:** Python · Go · C# · C++ · Clojure · Jave · Dart
 
